@@ -8,6 +8,23 @@ Recommendation System.ipynb: Notebook that builds and trains the movie recommend
 
 Code to run the streamlit.ipynb: Streamlit app code to deploy the recommendation system as an interactive web app.
 
+.
+
+📊 Required Datasets
+To run the project, download the following datasets from Kaggle:
+
+TMDB 5000 Movies Dataset
+
+Download and extract:
+
+tmdb_5000_movies.csv
+
+tmdb_5000_credits.csv
+
+Place both CSV files in the root directory of the project (or update paths in the code accordingly).
+
+
+
 💡 Features
 Content-based movie recommendations using cosine similarity.
 
